@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExpandableCardView Testapplication</string>
+    <string name="header_one">Example header</string>
+    <string name="header_two">Another header</string>
+    <string name="custom_layout">Custom layout will be included below header</string>
+    <string name="stylable">Custom layout will be included below header</string>
+</resources>
