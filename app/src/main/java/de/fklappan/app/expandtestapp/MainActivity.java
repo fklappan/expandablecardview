@@ -1,8 +1,9 @@
 package de.fklappan.app.expandtestapp;
 
 import android.content.res.ColorStateList;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import de.fklappan.android.util.expandablecardview.ExpandableCardView;
 
